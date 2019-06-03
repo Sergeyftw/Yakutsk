@@ -1,0 +1,156 @@
+body {
+	font-family: arial;
+}
+.contacts {
+	height: 40px;
+	margin-left: 200px;
+}
+.links {
+	height: 80px;
+}
+.img {
+	margin-left: 25px;
+	width: 20px;
+	height: 30px;
+	margin-top: 13px;
+}
+.banner {
+	height: 150px;
+}
+.dispflex {
+	display: flex;
+}
+.find {
+	height: 30px;
+	width: 55px;
+}
+.marginleft {
+	margin-left: 900px;
+	margin-top: 100px;
+}
+.logo {
+	height: 140px;
+	width: 145px;
+	margin-left: 100px;
+	margin-top: 5px;
+	background-image: url(svfu.png);
+	background-size: 100% 100%;
+}
+.info {
+	height: 700px;
+}
+.razdeli {
+	height: 200px;
+	background-color: #5885dd;
+}
+.a {
+	padding-top: 30px;
+	height: 50px;
+	margin-left: 50px;
+}
+.a a {
+	text-decoration: none;
+	color: white;
+}
+.a a:hover {
+	color: #ea3535;
+}
+.margintop {
+	padding-top: 100px;
+}
+.margleft {
+	margin-left: 250px;
+}
+.imgcontacts {
+	width: 30px;
+	height: 30px; 
+}
+.bckgrndclrblue {
+	background-color: #5286d8;
+	border: none;
+	border-radius: 1px;
+	color: white;
+}
+.text {
+	color: #74a5f2;
+	font-size: 15px;
+	text-decoration: none;
+}
+.text:hover {
+	color: black;
+}
+.text1 {
+	margin-left: 35px;
+	height: 30px;
+	margin-top: 19px;
+}
+.news1 {
+	background-image: url(news1.png);
+	width: 250px;
+	height: 150px;
+	background-size: 100% 100%;
+}
+.news2 {
+	background-image: url(news2.png);
+	width: 250px;
+	height: 150px;
+	background-size: 100% 100%;
+	margin-left: 8px;
+}
+.news3 {
+	background-image: url(news3.png);
+	width: 250px;
+	height: 150px;
+	background-size: 100% 100%;
+	margin-left: 8px;
+}
+.news4 {
+	background-image: url(news4.png);
+	width: 250px;
+	height: 150px;
+	background-size: 100% 100%;
+	margin-left: 8px;
+}
+.news5 {
+	background-image: url(news5.png);
+	width: 250px;
+	height: 150px;
+	background-size: 100% 100%;
+	margin-left: 8px;
+}
+.news6 {
+	background-image: url(news6.png);
+	width: 300px;
+	height: 215px;
+	background-size: 100% 100%;
+}
+.news7 {
+	background-image: url(news7.png);
+	width: 300px;
+	height: 215px;
+	background-size: 100% 100%;
+}
+.news8 {
+	background-image: url(news8.png);
+	width: 300px;
+	height: 215px;
+	background-size: 100% 100%;
+}
+.news9 {
+	background-image: url(news9.png);
+	width: 300px;
+	height: 215px;
+	background-size: 100% 100%;
+}
+.news10 {
+	background-image: url(news10.png);
+	width: 300px;
+	height: 215px;
+	background-size: 100% 100%;
+}
+.stroka1 {
+
+}
+.stroka2 {
+
+}
